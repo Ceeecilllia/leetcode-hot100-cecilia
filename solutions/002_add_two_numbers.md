@@ -31,9 +31,6 @@ Step 2: 4 + 6 = 10  → output [7 → 0], carry = 1
 Step 3: 3 + 4 + 1 = 8 → output [7 → 0 → 8]
 
 Result = 7 → 0 → 8
-yaml
-Copy
-Edit
 ```
 
 ---
