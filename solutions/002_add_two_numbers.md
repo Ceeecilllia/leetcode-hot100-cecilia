@@ -34,3 +34,10 @@ Result = 7 → 0 → 8
 yaml
 Copy
 Edit
+```
+
+---
+
+
+✅ First solved on: 2025-06-19  
+🧸 By: Cecilia 💗
